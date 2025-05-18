@@ -20,3 +20,7 @@ Add Verilog source files for RAM design and testbench
 Run behavioral simulation
 Analyze simulation results via waveform viewer
 (Optional) Synthesize the design and generate bitstream for FPGA implementation
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/41207c40-7a8d-43d6-bb10-a90e289a5536)
